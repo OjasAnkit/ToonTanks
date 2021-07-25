@@ -56,7 +56,7 @@ class TOONTANKS_API APawnTank : public APawnBase
 
 		UFUNCTION(BlueprintPure)
 		float GetTankHealthPercent() const;
-	
+
 	protected:
 		// Called when the game starts or when spawned
 		virtual void BeginPlay() override;		
