@@ -18,7 +18,7 @@ The models attached in repo are not my intellectual property and the sources are
 1.  [Models](https://www.udemy.com/course/unrealcourse/learn/lecture/20233336#overview)
 
 ### TODO
-1.  Adding a floating health widget above the enemy turrets. 
+1.  Adding a working floating health widget above the enemy turrets. 
 2.  Making other levels.
 3.  Adding other projectile classes.
 
