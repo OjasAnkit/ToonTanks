@@ -13,6 +13,15 @@ This game was created as a part of the course I am doing on Game Development usi
   
   
   
-<h2 align="left">Models Used</h2>
+### Models Used
 The models attached in repo are not my intellectual property and the sources are refered below:
-1. **Models**
+1.  [Models](https://www.udemy.com/course/unrealcourse/learn/lecture/20233336#overview)
+
+### TODO
+1.  Adding a floating health widget above the enemy turrets. 
+2.  Making other levels.
+3.  Adding other projectile classes.
+
+
+### Game previews
+![Alt Text](link)
